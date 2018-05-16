@@ -1,0 +1,34 @@
+CACHE MANIFEST
+# Start Version - 1525729827268 - EndV
+CACHE:
+index.html
+js/app.7501e066.js
+lib/ionic.bundle.min.b46d366b.js
+lib/angular-components.4a9cb194.js
+lib/jsQR.min.d5c416c8.js
+cordova.d41d8cd9.js
+css/main.f55bb86e.css
+
+#Required views
+views/offline.html
+views/includes/incomingDataMenu.html
+views/includes/actionSheet.html
+
+# Fonts
+fonts/ionicons.eot
+roboto-font/roboto-regular-webfont.woff2
+
+# Homepage Icons
+img/app/logo-simple.svg
+img/icon-wallet.svg
+
+# Offline page images
+img/icon-offline.svg
+
+NETWORK:
+*
+
+# FALLBACK:
+/ offline.html
+. offline.html
+/#/onboarding/welcome offline.html
